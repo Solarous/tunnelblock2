@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "luannouncements",
+  "version": "${version}",
+  "name": "LU Announcements - Train Tunnel Sound",
+  "description": "Adds a block that loops the train tunnel sound forever.",
+  "authors": ["LUAnnouncementsTissaria"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.luannouncements.TunnelSoundMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

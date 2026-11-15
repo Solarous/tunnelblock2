@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "luannouncements:block/train_tunnel_sound"
+  }
+}

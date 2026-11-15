@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "luannouncements:train_tunnel_sound" }
+      ]
+    }
+  ],
+  "random_sequence": "luannouncements:blocks/train_tunnel_sound"
+}
